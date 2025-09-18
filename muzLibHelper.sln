@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muzLibHelper", "muzLibHelper\muzLibHelper.csproj", "{1437F427-7D87-4F83-ADB1-C7FF0D6E09F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1437F427-7D87-4F83-ADB1-C7FF0D6E09F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1437F427-7D87-4F83-ADB1-C7FF0D6E09F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1437F427-7D87-4F83-ADB1-C7FF0D6E09F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1437F427-7D87-4F83-ADB1-C7FF0D6E09F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3380D1-2C1F-473E-AA41-EA97BA8A38FF}
+	EndGlobalSection
+EndGlobal
